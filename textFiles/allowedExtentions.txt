@@ -1,0 +1,8 @@
+jpg
+jpeg
+png
+pdf
+docx
+txt
+xls
+xlsx

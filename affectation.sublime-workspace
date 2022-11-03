@@ -1,0 +1,270 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 143.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Elbachiri/Desktop/la création de la BDD.txt",
+		"/C/xampp/htdocs/Application-de-gestion-des-courriers/css/styles.css",
+		"/C/xampp/htdocs/base/ajouter.php",
+		"/C/xampp/htdocs/base/main.php",
+		"/C/xampp/htdocs/base/admin.php",
+		"/C/xampp/htdocs/base/lister.php",
+		"/C/xampp/htdocs/base/editer.php",
+		"/C/xampp/htdocs/Application-de-gestion-des-courriers/pages/Apropos.html",
+		"/C/xampp/htdocs/Application-de-gestion-des-courriers/pages/ajouterUtilisateur.html",
+		"/C/xampp/htdocs/GestionCourrier-oUSSAMa/m_contact.php",
+		"/C/Users/Elbachiri/Desktop/RCSM _1.html",
+		"/C/Users/Elbachiri/AppData/Local/Microsoft/Windows/INetCache/IE/YW7F5FJY/login[1].php",
+		"/C/xampp/htdocs/GestionCourrier-oUSSAMa/action.php",
+		"/C/xampp/htdocs/base/index.html",
+		"/C/xampp/htdocs/courrier-master/README.md",
+		"/C/xampp/htdocs/Bureau d'ordre/base/scripts/recherche.php",
+		"/C/xampp/htdocs/Bureau d'ordre/base/admin.php",
+		"/C/xampp/htdocs/Bureau d'ordre/base/lister.php",
+		"/C/xampp/htdocs/courrier-11/courrier-master/app/Models/Structure.php",
+		"/C/xampp/htdocs/Application-de-gestion-des-courriers/node_modules/bs-recipes/recipes/webpack.preact-hot-loader/app/css/main.css",
+		"/C/xampp/htdocs/base/menu.html",
+		"/C/xampp/htdocs/base/titre.html",
+		"/C/xampp/htdocs/Bureau d'ordre/base/main.php",
+		"/C/Users/Elbachiri/Desktop/SQL/energy-report.html",
+		"/D/TDI_TS/Documents/C#/FORMULAIRE/formulaire cnx - Copie.HTML",
+		"/C/Users/Elbachiri/Downloads/MyWEB/formulaire Inscription_bo.html",
+		"/C/xampp/htdocs/Login-System-PHP-and-MYSQL-master/db/test_db.sql",
+		"/C/xampp/htdocs/base/rechercher.html",
+		"/C/xampp/htdocs/base/index_rechercher.html",
+		"/C/xampp/htdocs/opencourrier/index.php",
+		"/C/Users/Elbachiri/Desktop/open courrier/Open Courrier_ code.html",
+		"/C/xampp/htdocs/Login-System-PHP-and-MYSQL-master/db_conn.php",
+		"/C/xampp/htdocs/Login-System-PHP-and-MYSQL-master/README.md",
+		"/C/xampp/htdocs/Login-System-PHP-and-MYSQL-master/home.php",
+		"/C/xampp/htdocs/Login-System-PHP-and-MYSQL-master/login.php",
+		"/C/Users/Elbachiri/Desktop/open courrier/bo/new 3 éedited.html",
+		"/C/xampp/htdocs/Bureau d'ordre/base/menu.html",
+		"/D/TDI_TS/Documents/C#/Bakri/GESTION STAGIAIRE.sql",
+		"/D/TDI_TS/Documents/C#/Bakri/BUREAU ORDRE.sql",
+		"/C/xampp/htdocs/opencourrier/php/phpmailer/examples/index.html",
+		"/C/xampp/htdocs/opencourrier/php/phpmailer/get_oauth_token.php",
+		"/C/Users/Elbachiri/Desktop/open courrier/Nouveau dossier/ADD _inspection_divisée.html",
+		"/C/Users/Elbachiri/Desktop/open courrier/Nouveau dossier/new 2__.html",
+		"/C/Users/Elbachiri/Desktop/open courrier/ADD/ADD _inspection.html",
+		"/C/Users/ELBACH~1/AppData/Local/Temp/Rar$DRa42104.45794/gesprod/dbgesprod.sql",
+		"/C/xampp/htdocs/base/supprimer.php",
+		"/C/Users/Elbachiri/Downloads/MyWEB/gestion de list de contact _ Code _ Commit [r12].mhtml",
+		"/C/Users/Elbachiri/Downloads/MyWEB/formulaire Inscription.html",
+		"/C/xampp/htdocs/base/old/~1st-titre.html",
+		"/C/xampp/htdocs/opencourrier/php/phpmailer/examples/contents.html",
+		"/C/xampp/htdocs/opencourrier/app/index.php",
+		"/C/xampp/htdocs/opencourrier/php/phpmailer/docs/extending.html",
+		"/C/Users/Elbachiri/Desktop/Code PHP pour créer des millions de codes d'installation.php",
+		"/D/Donwloaded/projectmanager/readme.txt.vvoa",
+		"/C/Users/Elbachiri/Desktop/Waircut V2.1/Waircut V2.0/PixieWps/PixieWps.exe",
+		"/C/Users/Elbachiri/Desktop/open courrier/Nouveau dossier/ADD _inspection.html",
+		"/D/TDI_TS/Documents/C#/gestion stagiaire/SQLQuery1.sql",
+		"/C/Users/Elbachiri/Desktop/openMairie opencourrier.html",
+		"/E/Calculatrice en C#/Calculatrice__c#/Calculatrice/FormCalculatrice.cs",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/xampp/htdocs/opencourrier/app/css/index.php",
+		"/C/Users/Elbachiri/Desktop/enregistrement d'adresse/Form1.frm",
+		"/C/Users/Elbachiri/Desktop/enregistrement d'adresse/Project1.vbp",
+		"/E/association Eau Potable 14/DCV.frx",
+		"/C/Users/Elbachiri/Downloads/تسع أفكار ثورية غيّرت العالم – هل تأملتها من قبل؟ • زد.html.htm",
+		"/C/Users/Elbachiri/Desktop/EFF_2020/virus/WirelessKeyView.cfg",
+		"/C/Users/Elbachiri/Desktop/C# PE/corr_2.txt.vvoa",
+		"/C/Users/Elbachiri/Desktop/virus_files[1].c",
+		"/C/sh5ldr/initrd.gz",
+		"/C/sh5ldr/shldr.mbr",
+		"/C/sh5ldr/shldr",
+		"/C/Users/Elbachiri/Desktop/photo_magic[1].docx.vvoa",
+		"/C/Users/Elbachiri/Desktop/hosts",
+		"/C/Users/Elbachiri/Desktop/C# PE/corr_2.txt",
+		"/C/Users/Elbachiri/Desktop/Web Saved/Gérer les mises à jour de Windows 10.htm",
+		"/C/Users/Elbachiri/Desktop/jfiag_gg.cfg",
+		"/C/Users/Elbachiri/AppData/Local/Temp/kissq.exe",
+		"/D/1_Partition/inks Run cmd/cmdkey.exe",
+		"/C/Users/Elbachiri/Desktop/DemoConnecte/Gestion Stagiaire/Nouveau document texte - Copie.cs",
+		"/C/Users/Elbachiri/Desktop/télécharger picasa gratuit (windows)_fichiers/app.css",
+		"/C/Program Files/WindowsApps/microsoft.windowscalculator_10.1812.10048.0_x64__8wekyb3d8bbwe/Calculator.exe",
+		"/C/Program Files (x86)/Microsoft Visual Studio 14.0/Common7/IDE/WebTemplates/DNX/CSharp/1033/Rules/StarterWeb/IndividualAuth/Views/Account/Register.cshtml",
+		"/C/Users/Elbachiri/AppData/Local/Packages/Microsoft.SkypeApp_kzf8qxf38zg5c/LocalState/rtcpal_registry.reg",
+		"/C/Program Files (x86)/Microsoft Visual Studio 14.0/VB/Snippets/1033/os/Registry/ReadRegistryValues.snippet",
+		"/C/Program Files (x86)/Microsoft Visual Studio 14.0/VB/Snippets/1033/os/Registry/DeleteRegistryKey.snippet",
+		"/C/Users/Elbachiri/Desktop/Project2.dev",
+		"/G/ista/TP C# tdi101/TP3 Héritage/tp1/tp1/Site.Master",
+		"/D/Base de donnee/new/aa/HTML5/exercice 13.html",
+		"/D/Base de donnee/new/aa/b.lhoucine/omar lahmadi v3-1/Jardinier2019_log.ldf",
+		"/C/Program Files (x86)/Smadav/qz",
+		"/H/DemoTSQL.sql",
+		"/C/Users/Elbachiri/Desktop/Calculatrice.exe",
+		"/C/Users/Elbachiri/Desktop/C# PE/EFF_2020/EFF_2020/Participant.cs",
+		"/G/linuxiG/Soft/usb/Athan/html/athanPro.html",
+		"/G/linuxiG/Soft/Logeciel,S Xp sweet/utilitaires/rarreg.key",
+		"/G/ista/azk/AzK_RACh/Control1.sql"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"PNG",
+			" \"",
+			"styl",
+			"script",
+			"head",
+			"body",
+			"BODY",
+			"\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/ActionScript/ActionScript.sublime-build",
+	"project": "affectation.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

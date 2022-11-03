@@ -1,0 +1,114 @@
+/*button to top*/
+#myBtn {
+    display: none; /* Hidden by default */
+    position: fixed; /* Fixed/sticky position */
+    bottom: 20px; /* Place the button at the bottom of the page */
+    right: 20px; /* Place the button 30px from the right */
+    z-index: 99; /* Make sure it does not overlap */
+    border: none; /* Remove borders */
+    outline: none; /* Remove outline */
+    /* background-color: dimgray;  Set a background color
+    opacity: 0.6;*/
+    cursor: pointer; /* Add a mouse pointer on hover */
+    border-radius: 50px; /* Rounded corners */
+}
+/*smoothly scroll the page*/
+html {
+    scroll-behavior: smooth;
+}
+.editpwd-page h1,h2{
+    color: #2e6da4;
+}
+
+.editpwd-page h1{
+    font-size: 45px;
+}
+
+
+.side-nav{
+    height:100%;
+    width:330px;
+    margin-left: -330px;
+    position:fixed;
+    z-index:1;
+    top:0;
+    left:0;
+    background-color:rgba(0,0,0,0.9);
+    overflow-x:hidden;
+    padding-top:80px;
+    line-height: 40px;
+    transition:0.5s;
+}
+
+.side-nav a{
+    padding:10px 10px 10px 20px;
+    text-decoration:none;
+    font-size:22px;
+    color:#ccc;
+    display:block;
+    border-top: 1px solid rgba(255, 255, 255, .1);
+    border-bottom: 1px solid black;
+    transition: .4s;
+}
+
+.side-nav a:hover{
+    text-decoration: none;
+    margin-left: 3px;
+    color: white;
+    background-color: rgba(255,0,0,0.4);
+}
+
+.side-nav .btn-close{
+    position:absolute;
+    top:0;
+    right:20px;
+    font-size:38px;
+    margin-left:50px;
+    color: darkgray;
+    cursor: pointer;
+}
+.side-nav .btn-close:hover{
+    color: white;
+    transition: .4s;
+}
+.logo{
+    position: absolute;
+    top: 0;
+    left: 38%;
+    height: 194px;
+    display: block;
+}
+.side-nav a i {
+    margin-right: 10px;
+}
+.open-slide .openS{
+    background-color: #dc3545; 
+    color: #f8f9fa;  
+    font-size:40px;
+    cursor:pointer;
+    font-weight: bold;
+    border-radius: 20px;
+    padding: 3px 3px 3px;
+}
+.open-slide .openS:hover{
+    /* box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)  ; */
+    background-color: #f8f9fa; 
+    color: #dc3545; 
+    border: 1px solid #dc3545;
+    transition: .2s;
+}
+/*Footer
+#page-container {
+    position: relative;
+    min-height: 40vh;
+}
+
+#content-wrap {
+    padding-bottom: 2.5rem;   
+}
+.footer{
+    padding:15px 0 10px 0;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}*/
